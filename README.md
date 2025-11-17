@@ -22,7 +22,7 @@ How to allow the folder in Windows Defender:
 
 6.After adding the exclusion, the program will run normally.
 
+Infos:
 
-the .exe File is in the bin/debug folder
-
-the log for cpu and gpu temps file .txt is in the bin/debug folder
+-the .exe File is in the bin/debug folder
+-the log for cpu and gpu temps file .txt is in the bin/debug folder
